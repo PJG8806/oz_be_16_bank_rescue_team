@@ -225,4 +225,4 @@ if obj.user != request.user:
 # 🔗 GitHub
 
 - [팀 GitHub Repository](https://github.com/oz-be-16-team1/oz-be-16-team1/tree/main/docs)
-- [팀 문서 주소](https://github.com/space-one-piece/be_one_piece](https://github.com/oz-be-16-team1/oz-be-16-team1/tree/main/docs)
+- [팀 문서 주소](https://github.com/oz-be-16-team1/oz-be-16-team1/tree/main/docs)
